@@ -1,0 +1,17 @@
+{
+  "name": "mongoose-vs-nodejs-mongodb",
+  "version": "1.0.0",
+  "description": "Mongoose CRUD checkpoint project",
+  "main": "myApp.js",
+  "scripts": {
+    "test": "node --check myApp.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "mongoose": "^9.12.0"
+  }
+}
